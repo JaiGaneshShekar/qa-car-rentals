@@ -1,0 +1,7 @@
+{
+  "car_id" : '#(car_id)',
+  "car_license_number" : '#(car_license_number)',
+  "total_rent_bill" : '#(total_rent_bill)',
+  "from_date_time" : '#(from_date_time)',
+  "to_date_time" : '#(to_date_time)'
+}
